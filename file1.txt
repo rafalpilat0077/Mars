@@ -1,1 +1,1 @@
-hello
+hellogit commit -am Write hello to file1
